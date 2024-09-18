@@ -1,0 +1,37 @@
+# Calculadora de Média de Três Notas
+
+Este projeto é uma calculadora simples para calcular a média de três notas. O programa solicita ao usuário que insira três notas e, em seguida, calcula a média aritmética dessas notas. O resultado é exibido para o usuário.
+
+## Funcionalidades
+
+- Solicita a entrada de três notas do usuário.
+- Calcula a média aritmética das três notas.
+- Exibe o resultado da média para o usuário.
+
+## Requisitos
+
+- Python 3.x
+
+## Como Executar
+
+1. Certifique-se de que o Python 3.x está instalado em seu sistema.
+2. Clone este repositório para o seu ambiente local:
+    
+    git clone https://github.com/seu-usuario/calculadora-media-notas.git
+    ```
+3. Navegue para o diretório do projeto:
+   
+    cd calculadora-media-notas
+    ```
+4. Execute o script Python:
+    
+    python calcular_media.py
+    ```
+
+## Contribuição
+
+Sinta-se à vontade para enviar pull requests e contribuir para melhorar o projeto.
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
