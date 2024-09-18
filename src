@@ -1,0 +1,18 @@
+# Passo 1: Leia a primeira nota e armazene em nota1
+nota1 = float(input("Digite a primeira nota: "))
+
+# Passo 2: Leia a segunda nota e armazene em nota2
+nota2 = float(input("Digite a segunda nota: "))
+
+# Passo 3: Leia a terceira nota e armazene em nota3
+nota3 = float(input("Digite a terceira nota: "))
+
+# Passo 4: Calcule a média das notas
+media = (nota1 + nota2 + nota3) / 3
+
+# Passo 5: Verifique se a média é maior ou igual a 7 e exiba a mensagem correspondente
+if media >= 7:
+    print("Aprovado")
+else:
+    print("Reprovado")
+
